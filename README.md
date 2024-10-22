@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Picoodi 
-- 👀 I’m interested in Raspberry Pi`s, a bit in Networks, and Python and GO to code myself helpfull tools 
+- 👀 I’m interested in Raspberry Pi`s, Python and GO to code myself helpfull tools 
 - ⚡ Fun fact:I still have a lot of contact to the outside world and touch grass.
 
 <!---

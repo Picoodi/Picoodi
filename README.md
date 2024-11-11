@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Picoodi 
-- 👀 I’m interested in Raspberry Pi`s, Python and GO to code myself helpfull tools 
-- ⚡ Fun fact:I still have a lot of contact to the outside world and touch grass.
+👋 Hi, I’m Max @Picoodi
+👀 I’m interested in Raspberry Pi`s, Python and Physics and Mathematics
+
+
 
 <!---
 Picoodi/Picoodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

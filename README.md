@@ -1,5 +1,5 @@
 👋 Hi, I’m Max @Picoodi
-👀 I’m interested in Raspberry Pi`s, Python and Physics and Mathematics
+👀 I’m interested in Raspberry Pi`s, Python, Biology and Mathematics
 
 
 
